@@ -4,8 +4,6 @@ projet fait par: Vincent Brouillet
 groupe: 405
 """
 
-# add more monster per room
-
 import random as r
 
 
