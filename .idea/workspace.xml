@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f0e443-33e2-47ae-95c5-fc53a672f946" name="Changes" comment="FINAL" />
+    <list default="true" id="b2f0e443-33e2-47ae-95c5-fc53a672f946" name="Changes" comment="FINAL VERSION">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727806708098</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FINAL VER">
+      <option name="closed" value="true" />
+      <created>1727806886524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727806886524</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +133,7 @@
     <MESSAGE value="Version finale" />
     <MESSAGE value="VER FINAL" />
     <MESSAGE value="FINAL" />
-    <option name="LAST_COMMIT_MESSAGE" value="FINAL" />
+    <MESSAGE value="FINAL VER" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL VER" />
   </component>
 </project>

@@ -86,7 +86,6 @@ def combattre(force_adversaire, numero_adversaire, niveau_vie, numero_combat, no
         combat_statut = "défaite"
         print(f"Dernier combat {combat_statut}")
         if niveau_vie < 1:
-            print("XXXXXXXXXXXXXXXXXXXXXXXXX")
             print(f"La partie est terminée, vous avez vaincu {nombre_victoires} monstre(s).")
             y = input("rejouer? y/n")
             if y == "y":
